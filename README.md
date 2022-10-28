@@ -1,3 +1,32 @@
+# Battleship
+
+As a project during week 9 of app acadeny I had to code a game of Battleship that runs in the browser. You can read more about the project below (taken from the Appp Academy Open description). 
+
+
+To try it out locally, first clone this repo
+```
+git clone https://github.com/backpain22/practice-for-week-09-battleship-dom.git
+```
+
+Then cd into the new directory
+```
+cd practice-for-week-09-battleship-dom
+```
+
+Start the dev server
+(assuming you have node.js installed)
+```
+node app.js
+```
+
+Then open a browser and navigate to https://localhost:5000
+
+Alternativley you can visit https://battleship-practice.netlify.app
+
+
+The rest if the file is taken directly frm App Academy Open...
+
+
 # Battleship DOM Long Practice
 
 In this practice, you'll create a UI using HTML elements for a basic
