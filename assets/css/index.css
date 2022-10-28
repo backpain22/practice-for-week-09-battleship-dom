@@ -5,8 +5,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("/assets/img/bg.png");
-    background-repeat: no-repeat;
+    background-color: rgb(20, 2, 20);
 }
 h1 {
     font-size: 38px;
